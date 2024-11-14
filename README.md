@@ -1,6 +1,13 @@
 # Gun Laws Data
 
-## Concealed Carry Laws
+## Laws
+
+- [State Laws](https://github.com/universityofguns/laws/blob/main/state-gun-laws/)
+- [Open Carry Laws](https://github.com/universityofguns/laws/blob/main/open-carry-laws/)
+- [Concealed Carry Laws](https://github.com/universityofguns/laws/blob/main/concealed-carry-laws/)
+- [Constitutional Carry Laws](https://github.com/universityofguns/laws/blob/main/constitutional-carry-laws/)
+
+### Concealed Carry Laws
 
 - [Alabama](https://github.com/universityofguns/laws/blob/main/concealed-carry-laws/Alabama-Concealed-Carry.md)
 - [Alaska](https://github.com/universityofguns/laws/blob/main/concealed-carry-laws/Alaska-Concealed-Carry.md)
