@@ -433,54 +433,55 @@ Georgia hunting lands for lease include the following:
 * 83 acres in Blakely, Georgia (Early County).
 
 
-## Related Reading
 
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Arkansas-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Alabama-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Alaska-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Arizona-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/California-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Colorado-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Connecticut-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Delaware-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Florida-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Georgia-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Hawaii-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Idaho-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Illinois-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Indiana-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Iowa-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Kansas-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Kentucky-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Louisiana-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Maine-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Maryland-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Massachusetts-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Michigan-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Minnesota-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Mississippi-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Missouri-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Montana-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Nebraska-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Nevada-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/New-Hampshire-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/New-Jersey-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/New-Mexico-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/New-York-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/North-Carolina-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/North-Dakota-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Oklahoma-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Oregon-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Pennsylvania-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Rhode-Island-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/South-Carolina-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/South-Dakota-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Tennessee-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Texas-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Utah-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Vermont-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Virginia-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Washington-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/West-Virginia-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Wisconsin-Hunting-Laws.md
-- https://github.com/universityofguns/laws/blob/main/hunting-laws/Wyoming-Hunting-Laws.md
+## Hunting Laws
+
+-[Arkansas Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Arkansas-Hunting-Laws.md)
+-[Alabama Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Alabama-Hunting-Laws.md)
+-[Alaska Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Alaska-Hunting-Laws.md)
+-[Arizona Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Arizona-Hunting-Laws.md)
+-[California Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/California-Hunting-Laws.md)
+-[Colorado Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Colorado-Hunting-Laws.md)
+-[Connecticut Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Connecticut-Hunting-Laws.md)
+-[Delaware Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Delaware-Hunting-Laws.md)
+-[Florida Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Florida-Hunting-Laws.md)
+-[Georgia Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Georgia-Hunting-Laws.md)
+-[Hawaii Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Hawaii-Hunting-Laws.md)
+-[Idaho Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Idaho-Hunting-Laws.md)
+-[Illinois Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Illinois-Hunting-Laws.md)
+-[Indiana Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Indiana-Hunting-Laws.md)
+-[Iowa Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Iowa-Hunting-Laws.md)
+-[Kansas Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Kansas-Hunting-Laws.md)
+-[Kentucky Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Kentucky-Hunting-Laws.md)
+-[Louisiana Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Louisiana-Hunting-Laws.md)
+-[Maine Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Maine-Hunting-Laws.md)
+-[Maryland Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Maryland-Hunting-Laws.md)
+-[Massachusetts Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Massachusetts-Hunting-Laws.md)
+-[Michigan Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Michigan-Hunting-Laws.md)
+-[Minnesota Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Minnesota-Hunting-Laws.md)
+-[Mississippi Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Mississippi-Hunting-Laws.md)
+-[Missouri Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Missouri-Hunting-Laws.md)
+-[Montana Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Montana-Hunting-Laws.md)
+-[Nebraska Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Nebraska-Hunting-Laws.md)
+-[Nevada Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Nevada-Hunting-Laws.md)
+-[New Hampshire Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/New-Hampshire-Hunting-Laws.md)
+-[New Jersey Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/New-Jersey-Hunting-Laws.md)
+-[New Mexico Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/New-Mexico-Hunting-Laws.md)
+-[New York Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/New-York-Hunting-Laws.md)
+-[North Carolina Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/North-Carolina-Hunting-Laws.md)
+-[North Dakota Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/North-Dakota-Hunting-Laws.md)
+-[Oklahoma Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Oklahoma-Hunting-Laws.md)
+-[Oregon Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Oregon-Hunting-Laws.md)
+-[Pennsylvania Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Pennsylvania-Hunting-Laws.md)
+-[Rhode Island Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Rhode-Island-Hunting-Laws.md)
+-[South Carolina Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/South-Carolina-Hunting-Laws.md)
+-[South Dakota Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/South-Dakota-Hunting-Laws.md)
+-[Tennessee Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Tennessee-Hunting-Laws.md)
+-[Texas Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Texas-Hunting-Laws.md)
+-[Utah Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Utah-Hunting-Laws.md)
+-[Vermont Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Vermont-Hunting-Laws.md)
+-[Virginia Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Virginia-Hunting-Laws.md)
+-[Washington Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Washington-Hunting-Laws.md)
+-[West Virginia Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/West-Virginia-Hunting-Laws.md)
+-[Wisconsin Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Wisconsin-Hunting-Laws.md)
+-[Wyoming Hunting Laws](https://github.com/universityofguns/laws/blob/main/hunting-laws/Wyoming-Hunting-Laws.md)
