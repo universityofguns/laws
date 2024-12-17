@@ -1,13 +1,11 @@
 # Gun Laws Data
 
-## Laws
-
 - [State Gun Laws](https://github.com/universityofguns/laws/tree/main/state-gun-laws)
 - [Open Carry Laws](https://github.com/universityofguns/laws/tre/main/open-carry-laws/)
 - [Concealed Carry Laws](https://github.com/universityofguns/laws/tree/main/concealed-carry-laws/)
 - [Constitutional Carry Laws](https://github.com/universityofguns/laws/tree/main/constitutional-carry-laws/)
 
-
+---
 
 | State | State Gun Laws | Concealed Carry Law | Open Carry Laws | Constitutional Carry Laws |
 |-------|----------|-----------------------|-----------------|----------------------------|
@@ -61,6 +59,7 @@
 | West Virginia | [West Virginia](https://github.com/universityofguns/laws/blob/main/state-gun-laws/West-Virginia-Gun-Laws.md) | [West Virginia](https://github.com/universityofguns/laws/blob/main/concealed-carry-laws/West-Virginia-Concealed-Carry.md) | [West Virginia](https://github.com/universityofguns/laws/blob/main/open-carry-laws/West-Virginia-Open-Carry-Laws.md) | [West Virginia](https://github.com/universityofguns/laws/blob/main/constitutional-carry-laws/West-Virginia-Constitutional-Carry-Laws.md) |
 | Wisconsin | [Wisconsin](https://github.com/universityofguns/laws/blob/main/state-gun-laws/Wisconsin-Gun-Laws.md) | [Wisconsin](https://github.com/universityofguns/laws/blob/main/concealed-carry-laws/Wisconsin-Concealed-Carry.md) | [Wisconsin](https://github.com/universityofguns/laws/blob/main/open-carry-laws/Wisconsin-Open-Carry-Laws.md) | [Wisconsin](https://github.com/universityofguns/laws/blob/main/constitutional-carry-laws/Wisconsin-Constitutional-Carry-Laws.md) |
 | Wyoming | [Wyoming](https://github.com/universityofguns/laws/blob/main/state-gun-laws/Wyoming-Gun-Laws.md) | [Wyoming](https://github.com/universityofguns/laws/blob/main/concealed-carry-laws/Wyoming-Concealed-Carry.md) | [Wyoming](https://github.com/universityofguns/laws/blob/main/open-carry-laws/Wyoming-Open-Carry-Laws.md) | [Wyoming](https://github.com/universityofguns/laws/blob/main/constitutional-carry-laws/Wyoming-Constitutional-Carry-Laws.md) |
+
 ## Wiki
 
 - [Gun Laws Wiki](https://github.com/universityofguns/laws/wiki)
@@ -68,3 +67,5 @@
 - [Concealed Carry Laws](https://github.com/universityofguns/laws/wiki/Concealed-Carry-Laws)
 - [Constitutional Cary Laws](https://github.com/universityofguns/laws/wiki/Constitutional-Carry-Laws)
 - [Open Carry Laws](https://github.com/universityofguns/laws/wiki/Open-Carry-Laws)
+
+## Hunting Laws
