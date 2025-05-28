@@ -1,1 +1,4 @@
 laws.wiki/
+*.py
+PLANNING.md
+*.ipynb
